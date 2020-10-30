@@ -1,7 +1,9 @@
 # DataStructure
-Implemintation of Data Structure in c++
+
+Implementation of Data Structure in C++
 
 ## Contents
+
 - Array stack
 - linked stack
 - Array Queue
@@ -11,7 +13,4 @@ Implemintation of Data Structure in c++
 - Array sorted list
 - Linked sorted list
 - Linked doubly sorted list
-- Binary tree
-
-
- by Mahmoud Shaheen
+- Binary tre
